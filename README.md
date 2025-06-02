@@ -4,6 +4,10 @@
 
 Less Greedy Equivalence Search is an algorithm for causal discovery from observational and interventional data with prior assumptions.
 
+This repository contains the code for the paper ["Less Greedy Equivalence Search"](https://causalai.net/r134.pdf) by Adiba Ejaz and Elias Bareinboim.
+
+Disclaimer: This code is offered publicly with the MIT License, meaning that others can use it for any purpose, but we are not liable for any issues arising from the use of this code. Please cite our work if you found this code useful.
+
 ---
 
 ## Directory Structure
