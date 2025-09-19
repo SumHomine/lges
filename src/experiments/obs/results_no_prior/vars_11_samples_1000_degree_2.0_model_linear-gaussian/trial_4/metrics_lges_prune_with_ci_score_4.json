@@ -1,0 +1,12 @@
+{
+    "inserts_eval": 2196,
+    "deletes_eval": 78,
+    "turns_eval": 14,
+    "inserts_actual": 16,
+    "deletes_actual": 3,
+    "turns_actual": 0,
+    "score": -5553.017683955213,
+    "time": 0.18906307220458984,
+    "ops_eval": 2288,
+    "ops_actual": 19
+}
